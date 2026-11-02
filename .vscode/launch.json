@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "dotdigital_flutter_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dotdigital_flutter_example (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dotdigital_flutter_example (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dotdigital_push",
+            "cwd": "packages/dotdigital_push",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dotdigital_push (profile mode)",
+            "cwd": "packages/dotdigital_push",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dotdigital_push (release mode)",
+            "cwd": "packages/dotdigital_push",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

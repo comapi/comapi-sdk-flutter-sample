@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "comapi-sdk-ios-objc-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/comapi/comapi-sdk-ios-objc-spm",
+      "state" : {
+        "revision" : "f5d58ae3d07b501f949031b77f47b58198bdb836",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "socketrocketspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/flashphoner/SocketRocketSPM.git",
+      "state" : {
+        "revision" : "842c741962b6a715a95e4977f477eafc3d89a370",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
